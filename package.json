@@ -1,0 +1,9 @@
+{
+  "name": "backbone.declarativeEvents",
+  "version": "1.1.0",
+  "description": "Declarative event bindings for Backbone models, collections, subviews, and pub/sub.",
+  "main": "src/backbone.declarativeEvents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
